@@ -1,0 +1,24 @@
+{
+  "name": "marjolein",
+  "version": "1.0.0",
+  "description": "Marjolein in het klein drukmeter",
+  "main": "sql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaasfabriek/TTN-MQTT-To-MYSQL-AND-PHP-To-CSV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaasfabriek/TTN-MQTT-To-MYSQL-AND-PHP-To-CSV/issues"
+  },
+  "dependencies": {
+    "moment": "^2.17.1",
+    "mysql": "^2.12.0",
+    "ttn": "^2.0.1"
+  },
+  "homepage": "https://github.com/Kaasfabriek/TTN-MQTT-To-MYSQL-AND-PHP-To-CSV#readme"
+}

@@ -5,7 +5,7 @@ ini_set('display_errors', 'On');
 $pdo = new PDO(
     'mysql:host=localhost;dbname=marjolein',
     'marjolein', // Set this to your mysql username
-    '???????' // Set this to your mysql password
+    '?????' // Set this to your mysql password
     
 );
 
